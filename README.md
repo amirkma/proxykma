@@ -13,6 +13,6 @@ Configurations are updated every 2 hours to ensure users always have access to t
 You can change the language of this page by clicking below:
 
 - [فارسی](https://github.com/amirkma/proxykma/blob/main/README_fa.md)
-- [Русский](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_ru.md)
-- [Türkçe](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_tr.md)
-- [中文](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_zh.md)
+- [Русский](https://github.com/amirkma/proxykma/blob/main/README_ru.md)
+- [Türkçe](https://github.com/amirkma/proxykma/blob/main/README_tr.md)
+- [中文](https://github.com/amirkma/proxykma/blob/main/README_ch.md)
