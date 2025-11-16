@@ -11,6 +11,3 @@
 ## 🌍 تغییر زبان
 می‌توانید زبان این صفحه را با کلیک روی لینک‌های زیر تغییر دهید:
 - [English](https://github.com/SoliSpirit/v2ray-configs/blob/main/README.md)
-- [Русский](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_ru.md)
-- [Türkçe](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_tr.md)
-- [中文](https://github.com/SoliSpirit/v2ray-configs/blob/main/README_zh.md)
