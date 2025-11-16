@@ -10,4 +10,4 @@
 
 ## 🌍 تغییر زبان
 می‌توانید زبان این صفحه را با کلیک روی لینک‌های زیر تغییر دهید:
-- [English](https://github.com/SoliSpirit/v2ray-configs/blob/main/README.md)
+- [English](https://github.com/amirkma/proxykma/blob/main/README.md)
