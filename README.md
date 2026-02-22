@@ -2,7 +2,7 @@
 This repository contains V2Ray configurations for various protocols (VMess, VLESS, SS, Trojan) and countries. The config links are updated every 2 hours.
 ## 🔗 Useful Links
 - **V2Ray Sub**: A collection of protocols to use with V2Ray:
-  - [Subscriptions](https://github.com/amirkma/proxykma/blob/main/mix.txt)
+  - [Subscriptions]([https://github.com/amirkma/proxykma/blob/main/mix.txt](https://raw.githubusercontent.com/amirkma/proxykma/refs/heads/main/mix.txt))
 
 ## 🕒 Auto Update
 
